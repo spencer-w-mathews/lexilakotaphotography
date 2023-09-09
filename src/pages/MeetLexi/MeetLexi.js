@@ -10,7 +10,7 @@ function MeetLexi({homePage = false}) {
             <ResponsiveContainer>
                 <Column>
                     <h1 className='font-header' style={{fontSize: 40}}>Kansas City</h1>
-                    <h1 className='font-header'>Lifestyle - Maternity - Couples</h1>
+                    <h1 className='font-header'>Lifestyle - Maternity - Coupl</h1>
                     <h1 className='font-header' style={{fontSize: 40}}>Photographer</h1>
                 </Column>
                 <Column>
